@@ -1,0 +1,23 @@
+a{display:block;
+    float:none;
+    padding:10px 15px;
+    background:#aaa;
+    border:1px solid #777;
+    border-bottom:none;
+    border-radius:4px 4px 0 0;
+    margin-right:1px;
+    color:#fff;
+    text-decoration:none}
+
+body {
+        background-color: rgb(48,45,45);
+     }
+
+h1 {text-align: center;
+    color: rgb(200,200,200)}
+h2{text-align: center;
+    color: rgb(200,200,200)}
+
+p {text-align: center; 
+    font-size: 24px; 
+    color: rgb(200,200,200)}
